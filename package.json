@@ -17,10 +17,10 @@
     "m9js": "1.0.3",
     "minimist": "1.2.0",
     "request": "2.69.0",
-    "request-promise": "2.0.1"
+    "request-promise": "2.0.1",
+    "progress": "1.1.8"
   },
   "devDependencies": {
-    "jest-cli": "0.10.0",
-    "progress": "1.1.8"
+    "jest-cli": "0.10.0"
   }
 }
