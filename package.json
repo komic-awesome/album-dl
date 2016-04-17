@@ -20,6 +20,7 @@
     "request-promise": "2.0.1"
   },
   "devDependencies": {
-    "jest-cli": "0.10.0"
+    "jest-cli": "0.10.0",
+    "progress": "1.1.8"
   }
 }
